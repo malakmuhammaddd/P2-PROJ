@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\P2\p22\p22\Source.cpp(3690,26): warning C4305: '=': truncation from 'int' to 'unsigned char'
+D:\P2\p22\p22\Source.cpp(3690,22): warning C4309: '=': truncation of constant value
+D:\P2\p22\p22\Source.cpp(5062,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  p22.vcxproj -> D:\P2\p22\Debug\p22.exe
